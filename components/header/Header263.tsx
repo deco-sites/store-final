@@ -66,10 +66,12 @@ function Header263(
           <NavBar263 items={navItems} title={title} />
         </div>
 
-        {/* <Modals
+        {
+          /* <Modals
           menu={{ items: navItems }}
           searchbar={searchbar}
-        /> */}
+        /> */
+        }
       </header>
     </>
   );

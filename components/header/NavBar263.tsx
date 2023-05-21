@@ -18,19 +18,23 @@ function Navbar263({ items, title }: {
 
         <a
           href="/"
-          class="flex-grow inline-flex items-center"
+          class="flex-grow inline-flex items-center uppercase font-extrabold tracking-widest text-neutral-950 text-2xl"
           style={{ minHeight: navbarHeight }}
-          aria-label="Store logo"
+          aria-label="logo"
         >
-          { title }
+          {title}
         </a>
       </div>
 
       {/* Desktop Version */}
       <div class="hidden md:flex flex-row justify-between items-center border-b border-base-200 w-full pl-2 pr-6">
         <div class="flex-none w-44">
-          <a href="/" aria-label="logo" class="block px-4 py-3 w-[160px] uppercase font-extrabold tracking-widest text-neutral-950 text-2xl">
-            { title }
+          <a
+            href="/"
+            aria-label="logo"
+            class="block px-4 py-3 w-[160px] uppercase font-extrabold tracking-widest text-neutral-950 text-2xl"
+          >
+            {title}
           </a>
         </div>
         <div class="flex-auto flex justify-center">
