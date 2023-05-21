@@ -29,10 +29,11 @@ import * as $$$$$$$$8 from "./sections/ProjectCard.tsx";
 import * as $$$$$$$$9 from "./sections/ProductDetails.tsx";
 import * as $$$$$$$$10 from "./sections/DesignSystem.tsx";
 import * as $$$$$$$$11 from "./sections/Highlights.tsx";
-import * as $$$$$$$$12 from "./sections/LinkTree.tsx";
-import * as $$$$$$$$13 from "./sections/WhatsApp.tsx";
-import * as $$$$$$$$14 from "./sections/Header.tsx";
-import * as $$$$$$$$15 from "./sections/Carousel.tsx";
+import * as $$$$$$$$12 from "./sections/Header263.tsx";
+import * as $$$$$$$$13 from "./sections/LinkTree.tsx";
+import * as $$$$$$$$14 from "./sections/WhatsApp.tsx";
+import * as $$$$$$$$15 from "./sections/Header.tsx";
+import * as $$$$$$$$16 from "./sections/Carousel.tsx";
 import * as $live_middleware from "$live/routes/_middleware.ts";
 import * as $live_workbench from "$live/routes/live/workbench.ts";
 import * as $live_invoke from "$live/routes/live/invoke/index.ts";
@@ -184,19 +185,20 @@ const manifest = {
     "deco-sites/std/sections/SEOPLP.tsx": i2$$$$12,
     "deco-sites/store-final/sections/BannerGrid.tsx": $$$$$$$$0,
     "deco-sites/store-final/sections/BannerPLP.tsx": $$$$$$$$7,
-    "deco-sites/store-final/sections/Carousel.tsx": $$$$$$$$15,
+    "deco-sites/store-final/sections/Carousel.tsx": $$$$$$$$16,
     "deco-sites/store-final/sections/CookieConsent.tsx": $$$$$$$$6,
     "deco-sites/store-final/sections/DesignSystem.tsx": $$$$$$$$10,
     "deco-sites/store-final/sections/Features.tsx": $$$$$$$$4,
     "deco-sites/store-final/sections/Footer.tsx": $$$$$$$$5,
-    "deco-sites/store-final/sections/Header.tsx": $$$$$$$$14,
+    "deco-sites/store-final/sections/Header.tsx": $$$$$$$$15,
+    "deco-sites/store-final/sections/Header263.tsx": $$$$$$$$12,
     "deco-sites/store-final/sections/Highlights.tsx": $$$$$$$$11,
-    "deco-sites/store-final/sections/LinkTree.tsx": $$$$$$$$12,
+    "deco-sites/store-final/sections/LinkTree.tsx": $$$$$$$$13,
     "deco-sites/store-final/sections/ProductDetails.tsx": $$$$$$$$9,
     "deco-sites/store-final/sections/ProductShelf.tsx": $$$$$$$$2,
     "deco-sites/store-final/sections/ProjectCard.tsx": $$$$$$$$8,
     "deco-sites/store-final/sections/SearchResult.tsx": $$$$$$$$1,
-    "deco-sites/store-final/sections/WhatsApp.tsx": $$$$$$$$13,
+    "deco-sites/store-final/sections/WhatsApp.tsx": $$$$$$$$14,
     "deco-sites/store-final/sections/WishlistGallery.tsx": $$$$$$$$3,
   },
   "loaders": {
